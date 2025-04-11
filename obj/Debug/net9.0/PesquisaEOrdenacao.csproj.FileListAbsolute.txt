@@ -12,3 +12,4 @@ C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\refint\P
 C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.pdb
 C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.genruntimeconfig.cache
 C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\ref\PesquisaEOrdenacao.dll
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.sourcelink.json

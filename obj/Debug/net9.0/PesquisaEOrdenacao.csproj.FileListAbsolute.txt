@@ -1,0 +1,14 @@
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\bin\Debug\net9.0\PesquisaEOrdenacao.exe
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\bin\Debug\net9.0\PesquisaEOrdenacao.deps.json
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\bin\Debug\net9.0\PesquisaEOrdenacao.runtimeconfig.json
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\bin\Debug\net9.0\PesquisaEOrdenacao.dll
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\bin\Debug\net9.0\PesquisaEOrdenacao.pdb
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.AssemblyInfoInputs.cache
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.AssemblyInfo.cs
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.dll
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\refint\PesquisaEOrdenacao.dll
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.pdb
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\PesquisaEOrdenacao.genruntimeconfig.cache
+C:\Users\1282420838\Documents\jefti\PesquisaEOrdenacao\obj\Debug\net9.0\ref\PesquisaEOrdenacao.dll
